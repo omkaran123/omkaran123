@@ -30,7 +30,6 @@
 
 ## 📊 GitHub Stats  
 ![Omkaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkaran123&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omkaran123&theme=tokyonight)
 
 ---
 
